@@ -1,4 +1,4 @@
-import ChuckNorris from './src/services/ChuckNorris';
+import ChuckNorris from "./src/services/ChuckNorris";
 
 async function getData() {
   const chuckNorris = new ChuckNorris();

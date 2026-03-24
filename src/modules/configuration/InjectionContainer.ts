@@ -1,4 +1,4 @@
-import InjectionConfig, { InjectionConfigType } from './InjectionConfig';
+import InjectionConfig, { InjectionConfigType } from "./InjectionConfig";
 
 class InjectionContainer {
   static instance: InjectionContainer;

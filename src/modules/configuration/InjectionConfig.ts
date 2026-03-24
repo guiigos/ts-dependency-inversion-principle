@@ -1,4 +1,4 @@
-import axios from 'axios';
+import axios from "axios";
 
 export type InjectionConfigType = Record<string, any>;
 
